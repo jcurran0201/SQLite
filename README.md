@@ -1,6 +1,8 @@
 # SQLite June and December Weather 
 ## Purpose 
-The purpose was to find the statistical summary of the temperatures in June and December 
+The purpose was to find the statistical summary of the temperatures in June and December  
+## Summary 
+June was on average 4 degrees warmer than December. 
 ## Results 
 ### June Results 
 Temperatures ranged from 64-85 degrees with an average around 75 degrees
